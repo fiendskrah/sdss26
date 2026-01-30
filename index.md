@@ -1,5 +1,7 @@
 # Landing page
 
-## Map
+## Location
 
-I'm building the map on this PR
+```{embed} #fig:event-map
+:remove-input: true
+:remove-output: false

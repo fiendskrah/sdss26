@@ -31,7 +31,7 @@ jobs:
         shell: bash -l {0}
         run: |
           micromamba activate myst-site
-          myst build --execute
+          myst build --execute --html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4

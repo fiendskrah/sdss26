@@ -9,48 +9,23 @@ project:
 
 site:
   title: "Spatial Data Science Summit 2026"
-  url: "https://USERNAME.github.io"
-  baseurl: "/REPO"
+
+  options:
+    # Host (lowercase). If this is the user/org site repo named center-for-open-geographical-science.github.io,
+    # set baseurl: "" instead.
+    url: "https://center-for-open-geographical-science.github.io"
+    baseurl: "sdss26"
 
   nav:
     - title: "Home"
-      url: "/"
+      url: /index
     - title: "About"
-      url: "/about"
+      url: /about
     - title: "Program"
-      url: "/program"
+      url: /program
     - title: "Logistics"
-      url: "/logistics"
+      url: /logistics
 
   actions:
     - title: "GitHub"
-      url: "https://github.com/USERNAME/REPO"
-
-repository:
-  url: "https://github.com/USERNAME/REPO"
-  branch: "main"
-
-execute:
-  execute_notebooks: "auto"
-
-parse:
-  myst_enable_extensions:
-    - colon_fence
-    - deflist
-    - dollarmath
-    - linkify
-    - substitution
-    - tasklist
-
-sphinx:
-  config:
-    html_theme: "sphinx_book_theme"
-    html_theme_options:
-      repository_url: "https://github.com/USERNAME/REPO"
-      use_repository_button: true
-      use_edit_page_button: true
-      use_issues_button: true
-    extensions:
-      - myst_nb
-      - sphinx_copybutton
-      - sphinx_design
+      url: "https://github.com/Center-for-Open-Geographical-Science/sdss26"

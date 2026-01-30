@@ -9,25 +9,25 @@ project:
 
 site:
   title: "Spatial Data Science Summit 2026"
-  url: "https://USERNAME.github.io"
-  baseurl: "/REPO"
+  url: "https://fiendskrah.github.io"
+  baseurl: "/sdss26"
 
   nav:
     - title: "Home"
-      url: "/"
+      url: "/sdss26"
     - title: "About"
-      url: "/about"
+      url: "/sdss26/about"
     - title: "Program"
-      url: "/program"
+      url: "/sdss26/program"
     - title: "Logistics"
-      url: "/logistics"
+      url: "/sdss26/logistics"
 
   actions:
     - title: "GitHub"
-      url: "https://github.com/USERNAME/REPO"
+      url: "https://github.com/fiendskrah/sdss26"
 
 repository:
-  url: "https://github.com/USERNAME/REPO"
+  url: "https://github.com/fiendskrah/sdss26"
   branch: "main"
 
 execute:
@@ -46,7 +46,7 @@ sphinx:
   config:
     html_theme: "sphinx_book_theme"
     html_theme_options:
-      repository_url: "https://github.com/USERNAME/REPO"
+      repository_url: "https://github.com/fiendskrah/sdss26"
       use_repository_button: true
       use_edit_page_button: true
       use_issues_button: true

@@ -9,23 +9,52 @@ project:
 
 site:
   title: "Spatial Data Science Summit 2026"
-
+  url: "https://fiendskrah.github.io"
+  baseurl: "/sdss26"
   options:
-    # Host (lowercase). If this is the user/org site repo named center-for-open-geographical-science.github.io,
-    # set baseurl: "" instead.
-    url: "https://center-for-open-geographical-science.github.io"
-    baseurl: "sdss26"
+    hide_toc: true
 
   nav:
     - title: "Home"
-      url: /index
+      url: "/sdss26"
     - title: "About"
-      url: /about
+      url: "/sdss26/about"
     - title: "Program"
-      url: /program
+      url: "/sdss26/program"
     - title: "Logistics"
-      url: /logistics
+      url: "/sdss26/logistics"
 
   actions:
     - title: "GitHub"
-      url: "https://github.com/Center-for-Open-Geographical-Science/sdss26"
+      url: "https://github.com/fiendskrah/sdss26"
+
+repository:
+  url: "https://github.com/fiendskrah/sdss26"
+  branch: "main"
+
+execute:
+  execute_notebooks: "auto"
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+
+sphinx:
+  config:
+    html_logo: "_static/cogs.png"
+    html_theme: "sphinx_book_theme"
+    html_theme_options:
+      repository_url: "https://github.com/fiendskrah/sdss26"
+      use_repository_button: true
+      use_edit_page_button: true
+      use_issues_button: true
+    extensions:
+      - myst_nb
+      - sphinx_copybutton
+      - sphinx_design
+

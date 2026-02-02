@@ -24,6 +24,8 @@ site:
       url: "/program"
     - title: "Logistics"
       url: "/logistics"
+    - title: "Participants"
+      url: "/participants"
 
   actions:
     - title: "GitHub"

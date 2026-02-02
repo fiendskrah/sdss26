@@ -10,20 +10,20 @@ project:
 site:
   title: "Spatial Data Science Summit 2026"
   url: "https://fiendskrah.github.io"
-  baseurl: "/sdss26"
+  baseurl: "sdss26"
   options:
     hide_toc: true
     logo_text: SDSS26
     
   nav:
     - title: "Home"
-      url: "/sdss26"
+      url: "/"
     - title: "About"
-      url: "/sdss26/about"
+      url: "/about"
     - title: "Program"
-      url: "/sdss26/program"
+      url: "/program"
     - title: "Logistics"
-      url: "/sdss26/logistics"
+      url: "/logistics"
 
   actions:
     - title: "GitHub"

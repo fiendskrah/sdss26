@@ -15,15 +15,11 @@ site:
 
   nav:
     - title: "Home"
-      url: "/sdss26"
-    - title: "About"
-      url: "/sdss26/about"
+      url: "/"
     - title: "Program"
-      url: "/sdss26/program"
-    - title: "Logistics"
-      url: "/sdss26/logistics"
+      url: "/program"
     - title: "Participants"
-      url: "/sdss26/participants"
+      url: "/participants"
 
   actions:
     - title: "GitHub"

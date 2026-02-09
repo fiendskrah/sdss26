@@ -11,17 +11,16 @@ site:
   title: "Spatial Data Science Summit 2026"
   url: "https://fiendskrah.github.io"
   baseurl: "/sdss26"
-
-  nav:
-    - title: "Home"
-      url: "/sdss26"
-    - title: "About"
-      url: "/sdss26/about"
-    - title: "Program"
-      url: "/sdss26/program"
-    - title: "Logistics"
-      url: "/sdss26/logistics"
-
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Program"
+    url: "/program/"
+  - title: "Logistics"
+    url: "/logistics/"
+    
   actions:
     - title: "GitHub"
       url: "https://github.com/fiendskrah/sdss26"
@@ -51,6 +50,6 @@ sphinx:
       use_edit_page_button: true
       use_issues_button: true
     extensions:
-      - myst_nb
+      - myst_nbi
       - sphinx_copybutton
       - sphinx_design

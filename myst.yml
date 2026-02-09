@@ -20,8 +20,6 @@ site:
       url: "/sdss26/about"
     - title: "Program"
       url: "/sdss26/program"
-    - title: "Logistics"
-      url: "/sdss26/logistics"
     - title: "Participants"
       url: "/sdss26/participants"
 

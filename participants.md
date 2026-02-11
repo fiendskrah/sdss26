@@ -12,6 +12,7 @@ title: "Participants"
 | [Fletcher Foti](http://mapcraft.io) | MapCraftlabs |
 | [Geoff Boeing](https://geoffboeing.com/) | University of Southern California |
 | [James Gabordi](https://cogs.sdsu.edu/author/james-d.-gaboardi/) | Oak Ridge National Laboratory |
+| [Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) | University of California Berkeley |
 | [Jin Huang](https://cogs.sdsu.edu/author/jin-huang/) | San Diego State University |
 | [Jon Reades](http://www.reades.com/wp/) | University College London |
 | [Joseph Holler](https://josephholler.github.io/) | Middlebury College |
@@ -20,6 +21,7 @@ title: "Participants"
 | [Levi Wolf](https://www.ljwolf.org/) | University of Bristol |
 | [Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin) | University of Chicago |
 | [Mariela Alfonso](https://www.youtube.com/watch?v=yhNgWRtMBMM) | New York University |
+| [Maryam Hosseini](https://ced.berkeley.edu/people/maryam-hosseini) | University of California Berkeley |
 | [Miguel Alvarez Garcia](https://medium.com/@malvarez_89900) | Carto |
 | [Peter Kedron](https://www.geog.ucsb.edu/people/faculty/peter-kedron) | University of California Santa Barbara |
 | [Serge Rey](https://sergerey.org/) | San Diego State University |

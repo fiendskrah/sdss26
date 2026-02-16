@@ -11,7 +11,8 @@ title: "Participants"
 | [Eli Knaap](https://knaaptime.com/) | University of California, Irvine |
 | [Fletcher Foti](http://mapcraft.io) | MapCraftlabs |
 | [Geoff Boeing](https://geoffboeing.com/) | University of Southern California |
-| [James Gabordi](https://cogs.sdsu.edu/author/james-d.-gaboardi/) | Oak Ridge National Laboratory |
+| [James Gaboardi](https://cogs.sdsu.edu/author/james-d.-gaboardi/) | Oak Ridge National Laboratory |
+| [Martin Fleischmann](https://martinfleischmann.net/) | Charles University, Prague |
 | [Jarrod Millman](https://bids.berkeley.edu/people/jarrod-millman) | University of California Berkeley |
 | [Jin Huang](https://cogs.sdsu.edu/author/jin-huang/) | San Diego State University |
 | [Jon Reades](http://www.reades.com/wp/) | University College London |

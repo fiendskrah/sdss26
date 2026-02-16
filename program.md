@@ -1,10 +1,7 @@
 # Program
 
-### When: March 15th-16th, 2026
 
-### Where: AI Futures Lab @ WeWork 2120 University Ave, 7th Floor, Berkeley, CA 94704
-
-### Daily Schedule
+###  Schedule
 
 #### Sunday March 15th
 

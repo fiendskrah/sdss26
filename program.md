@@ -6,69 +6,82 @@
 
 ### Daily Schedule
 
-#### Sunday March 15th:
+#### Sunday March 15th
 
-##### Morning Plenary
+##### Breakfast on-site (8:00-9:00)
+
+##### Summit Introduction (9:00-10:00)
 General welcome, meet and greet, discuss goals.
 
-##### Ecosystem Mapping (90 Minutes)
+##### Ecosystem Mapping I (10:30-12:00)
 - Collaborate on projects, tools, and institutions.
 - PySAL applications within science, teaching, and governmental applications
 
-##### Afternoon Parallel Sessions
-###### 1A. Choose a session (90 Minutes)
-- Science and Education
-- Industry and Government
-- Developers and Users
+##### Lunch on-site (12:00-1:00)
 
-###### 1B. Switch sessions (90 Minutes)
-Groups will switch to problem solve and generate ideas together. Mix yourselves up and go collaborate with another group! Identify cross-channel difficulties.
+##### Afternoon Parallel Sessions (1:00-2:30)
 
-##### Late Afternoon Plenary (60 Minutes)
+######  Ecosystem Mapping II
+- Collaborate on projects, tools, and institutions.
+- PySAL applications within science, teaching, and governmental applications
+- Three parallel sessions
+  - Science 
+  - Education
+  - Industry and Government
 
-Synthesize and Prioritize! Identify challenges and major points from previous sessions.
+
+##### Coffee (2:30-3:00)
+
+##### Ecosystem Mapping III (3:00-4:30)
+
+- Synthesize and Prioritize 
+- Identify challenges and major points from previous sessions.
 
 ##### Evening
 
 Be sure to meet us for an informal dinner and drinks at (TBD)
 
-#### Monday, March 16th:
+#### Monday, March 16th
 
-##### Morning Plenary (30 Minutes)
+##### Breakfast on-site (8:00-9:00)
 
-Reground and reflect on big topics from yesteday, and prepare for the topics of the day.
+##### Introduction (9:00-9:30)
 
-##### Parallel working Groups. (Choose One!)
+Reground and reflect on big topics from yesterday, and prepare for the topics of the day.
 
-###### 1A. Ecosystem Intervention Working Groups (120 Minutes)
+##### Parallel working Groups (9:30-11:30)
 
-Problem-centered groups based on problems identified on Day 1.
+###### Ecosystem  Working Groups 
+
+Problem-centered groups based on opportunities and challenges identified on Day 1.
 
 - Governance and Sustainability
 - Interoperability and standards coordination
 - Education to contribution pipelines
 - Industry and government adoption pathways
 
-Outline next steps.
-
-###### 1B. Community PySAL Book working Group (120 Minutes)
+######  Community PySAL Book working Group 
 
 Define and outline book purposes, scope, and process. 
 
-###### 1C. Shared Teaching Materials Working Group (120 Minutes)
+######  Shared Teaching Materials Working Group 
 
-Create and share resuable, coordinated teaching activies.
+Design infrastructure to create, share, and coordinate teaching materials.
 
-##### Midday Cross-Group Collaboration (90 Minutes)
+##### Lunch on-site (11:30-1:00)
+
+##### Midday Cross-Group Collaboration (1:00-2:30)
 
 Ecosystem, Book, and Teaching groups mix and match to discuss plans and feasibility.
 
-##### Afternoon Plenary (75 Minutes)
-Final discussion of ecosystem interventions, book inititaves, and teaching materials.
+##### Coffee (2:30-3:00)
+
+##### Final Group Collaboration (3:00-4:30)
+Final discussion of ecosystem interventions, book initiatives, and teaching materials.
 
 Clarify outputs and closing details.
 
-##### Next Steps + Closing (30 Minutes)
+##### Next Steps + Closing (4:30-5:00)
 
-Summarize committments and timelines. 
+Summarize commitments and timelines. 
 

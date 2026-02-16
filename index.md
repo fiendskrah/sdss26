@@ -11,7 +11,8 @@
 
 Contributions to the summit are funded by the NSF POSE II award: [An Open Source Ecosystem for Spatial Data Science](https://nsf.elsevierpure.com/en/projects/pos-phase-ii-an-open-source-ecosystem-for-spatial-data-science/).
 
-![nsf](nsf.png)
+[![pose](pose-award.png)](https://nsf.elsevierpure.com/en/projects/pos-phase-ii-an-open-source-ecosystem-for-spatial-data-science/)
+
 
 
 ### Delivery sponsors
@@ -19,15 +20,19 @@ Contributions to the summit are funded by the NSF POSE II award: [An Open Source
 
 Thank you to Berkeley Institute for Data Science for providing staff and venue in-kind support for the Summit.
 
-![bids](bids.png)
+
+[![bids](bids.png)](https://bids.berkeley.edu)
+
 
 ### Travel sponsors
 
 The following organizations supported team members to attend the Summit.
 
-![csds](CSDS_logo.png)
+[![csds](CSDS_logo.png)](https://spatial.uchicago.edu)
 
-![[cogs](http://cogs.sdsu.edu)](cogs_logo_dark.webp)
+[![cogs](cogs_logo_dark.webp)](http://cogs.sdsu.edu)
+
+[![ucr](ucr.png)](https://spatial.ucr.edu/)
 
 
 
